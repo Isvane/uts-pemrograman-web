@@ -1,4 +1,4 @@
-# UTS Pemrograman Web
+# Diavolo
 
 A comprehensive student management and academic dashboard web application built as a mid-term exam project (UTS) for **Pemrograman Web Lanjut** at STMIK Antar Bangsa. 
 
@@ -22,8 +22,8 @@ The application demonstrates advanced Laravel concepts including Eloquent relati
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/institute-of-doom/uts-pemrograman-web.git
-cd uts-pemrograman-web
+git clone https://github.com/isvane-academic-hub/diavolo.git
+cd diavolo
 
 # 2. Copy environment file
 cp .env.example .env
